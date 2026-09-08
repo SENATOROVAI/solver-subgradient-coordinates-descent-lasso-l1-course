@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Если этот учебный репозиторий помог вам, пожалуйста, укажите его в работе."
+title: "MAE, Lasso и ElasticNet на Python — субградиентный и координатный спуск"
+type: software
+authors:
+  - family-names: SENATOROVAI
+repository-code: "https://github.com/SENATOROVAI/solver-subgradient-coordinates-descent-lasso-l1-course"
+keywords:
+  - Python
+  - machine learning
+  - linear regression
+  - Lasso
+  - ElasticNet
+  - coordinate descent

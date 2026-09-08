@@ -1,8 +1,20 @@
 # MAE, Lasso и ElasticNet на Python — субградиентный и координатный спуск
 
+[![Проверка Python](https://github.com/SENATOROVAI/solver-subgradient-coordinates-descent-lasso-l1-course/actions/workflows/tests.yml/badge.svg)](https://github.com/SENATOROVAI/solver-subgradient-coordinates-descent-lasso-l1-course/actions/workflows/tests.yml)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Stepik](https://img.shields.io/badge/Stepik-практический%20курс-00A86B)](https://stepik.org/)
+
+![Визуализация регуляризации Lasso и ElasticNet](assets/social-preview.png)
+
 Практический репозиторий к курсу Stepik **«MAE, Lasso и ElasticNet: практический курс»**. Здесь собраны воспроизводимые примеры на Python: линейная регрессия с функциями потерь MAE и MSE, L1/L2-регуляризация, Lasso, Ridge, ElasticNet, soft-thresholding, субградиентный метод и координатный спуск.
 
 Материалы подходят для самостоятельного изучения машинного обучения, подготовки к занятиям по оптимизации и разбора того, как устроены линейные модели до вызова готового API scikit-learn.
+
+## Зачем этот проект
+
+- **Учиться на прозрачных реализациях.** Ключевые вычисления построены на списках и циклах Python, поэтому каждый шаг алгоритма легко проверить.
+- **Связывать математику с кодом.** Примеры показывают, как функция цели, градиент, штраф и обновление коэффициента меняют результат.
+- **Сравнивать с библиотеками.** Собственные решатели сопоставляются со scikit-learn, а тесты фиксируют численное поведение.
 
 ## Что есть в репозитории
 
@@ -92,6 +104,10 @@ python/stepik_solutions/lesson_NN/014.py
 - [Matplotlib](https://matplotlib.org/) — графики;
 - [SciPy](https://scipy.org/) — вспомогательные численные процедуры;
 - [scikit-learn](https://scikit-learn.org/) — сравнение с промышленными реализациями Lasso и ElasticNet.
+
+## Участие и безопасность
+
+Баг-репорты, идеи улучшений и pull request'ы приветствуются: правила находятся в [CONTRIBUTING.md](CONTRIBUTING.md). Инструкции по сообщению об уязвимостях — в [SECURITY.md](SECURITY.md). Если используете материалы в учебной или исследовательской работе, смотрите [CITATION.cff](CITATION.cff).
 
 ## Навигация для Stepik
 
