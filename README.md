@@ -27,7 +27,6 @@
 | [`python/extensions/`](python/extensions/) | 26 дополнительных заданий по оптимизации, статистике и геометрии регуляризации. |
 | [`python/extension_solutions/`](python/extension_solutions/) | Решения дополнительных заданий. |
 | [`python/stepik_solutions/`](python/stepik_solutions/) | Решения Python-задач Stepik: `009_code` и `014_code` каждой главы. |
-| [`module_2.1/task1_1.py`](module_2.1/task1_1.py) | Самостоятельная задача: медиана и минимальная средняя абсолютная ошибка. |
 
 ## Темы и ключевые слова
 
